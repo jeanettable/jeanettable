@@ -18,7 +18,7 @@
 
 🔭  Up next on my list: React Native, GraphQL & Apollo, Python, Mongo and Docker. 
 
-⛰  Here to learn, collaborate, and constantly be better! And if I'm not here, I'm probably outdoors! 
+⛰  Here to learn, collaborate, and constantly be better! And if I'm not here, I'm probably outside! 
 
 <hr>
 
