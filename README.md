@@ -14,9 +14,9 @@
 
 🤓  My strengths are in NERD stack, and I love to learn. 
 
-🔍  Currently, I'm focused on developing in Typescript, improving my raw SQL, and working toward an AWS cert. 
+🔍  Currently, I'm focused on developing in Typescript, SQL, algos and Docker. 
 
-🔭  Up next on my list: React Native, GraphQL & Apollo, Python, Mongo and Docker. 
+🔭  Up next on my list: React Native, GraphQL & Apollo, Python, and an AWS cert. 
 
 ⛰  Here to learn, collaborate, and constantly be better! And if I'm not here, I'm probably outside! 
 
